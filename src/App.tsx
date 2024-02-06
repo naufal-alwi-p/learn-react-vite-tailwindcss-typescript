@@ -1,7 +1,7 @@
-import CountButton from './components/CountButton';
+import Game from "./components/Game";
 
 function App() {
-  return <CountButton />;
+  return <Game />;
 }
 
 export default App;
